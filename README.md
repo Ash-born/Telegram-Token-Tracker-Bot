@@ -28,7 +28,7 @@ This project is a Python-based Telegram bot designed to monitor cryptocurrency t
 
 1. Clone or download the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/telegram-token-tracker-bot.git
+    git clone https://github.com/champactro/telegram-token-tracker-bot.git
     ```
 
 2. Navigate to the project directory:
